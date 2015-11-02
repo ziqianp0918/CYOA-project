@@ -1,7 +1,7 @@
 # Choose Your Own Adventure
 **The purpose**: is to further practice linking files together to create a project as well as collaboration with other software engineer using GitHub.
 
-What would you do in a zombie apocalypse?
+##What would you do in a zombie apocalypse?
 
 Click [here](waking-up.md) to begin!
 
