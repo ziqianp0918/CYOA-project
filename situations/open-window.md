@@ -3,3 +3,4 @@ You look out the window to see fires in the distance. You are two floors from th
 What do you do?
 
 [Try the jump](broken-ankle.md)
+[Try the next window](slip.md)
