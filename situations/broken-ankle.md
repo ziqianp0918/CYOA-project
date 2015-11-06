@@ -1,0 +1,1 @@
+You manage to survive the fall but landed to hard. You have sprained your ankle pretty bad. You hear a voice in the distance telling you to go to it quick. As your vision becomes clear you see a normal survivor 
